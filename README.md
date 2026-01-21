@@ -1,5 +1,5 @@
 # CodeRefinery recipe book
-
+Line added
 We use this repository to teach Git and also to collect
 some nice recipes.
 
